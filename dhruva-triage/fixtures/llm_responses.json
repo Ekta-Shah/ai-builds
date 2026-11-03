@@ -1,0 +1,188 @@
+{
+ "A01": {
+  "criteria": {
+   "stage": {
+    "verdict": "no-match",
+    "citation": "form: stage=Series B"
+   },
+   "sector": {
+    "verdict": "partial",
+    "citation": "deck: B2B learning software for US schools; thesis wants back-office process software"
+   },
+   "geography": {
+    "verdict": "no-match",
+    "citation": "form: hq=San Francisco; deck: 310 US districts"
+   },
+   "founder_profile": {
+    "verdict": "partial",
+    "citation": "form: CEO ex-teacher; sells to schools, but sector is not back-office"
+   },
+   "business_model": {
+    "verdict": "match",
+    "citation": "deck: per-seat subscription"
+   },
+   "round_size": {
+    "verdict": "no-match",
+    "citation": "form: round_size_cr=80"
+   }
+  },
+  "tokens_in": 152000,
+  "tokens_out": 9800
+ },
+ "A02": {
+  "criteria": {
+   "stage": {
+    "verdict": "insufficient-data",
+    "citation": null,
+    "why": "form blank; deck does not say"
+   },
+   "sector": {
+    "verdict": "partial",
+    "citation": "deck: 'secure collaboration', no process or customer named"
+   },
+   "geography": {
+    "verdict": "insufficient-data",
+    "citation": null,
+    "why": "no location in form or deck"
+   },
+   "founder_profile": {
+    "verdict": "insufficient-data",
+    "citation": null,
+    "why": "no founder information"
+   },
+   "business_model": {
+    "verdict": "insufficient-data",
+    "citation": null,
+    "why": "no pricing or revenue model"
+   },
+   "round_size": {
+    "verdict": "insufficient-data",
+    "citation": null,
+    "why": "form blank"
+   }
+  },
+  "tokens_in": 148000,
+  "tokens_out": 9500
+ },
+ "A03": {
+  "criteria": {
+   "stage": {
+    "verdict": "match",
+    "citation": "deck: working product, no revenue, 3 plants live"
+   },
+   "sector": {
+    "verdict": "match",
+    "citation": "deck: replaces paper registers for manufacturers' maintenance and handover"
+   },
+   "geography": {
+    "verdict": "match",
+    "citation": "form: hq=Pune; deck: plants near Pune"
+   },
+   "founder_profile": {
+    "verdict": "match",
+    "citation": "deck: founder spent 11 years as a plant manager"
+   },
+   "business_model": {
+    "verdict": "partial",
+    "citation": "deck: monthly per-plant pilots, no annual contracts signed"
+   },
+   "round_size": {
+    "verdict": "insufficient-data",
+    "citation": null,
+    "why": "form blank; deck silent on round size"
+   }
+  },
+  "tokens_in": 155000,
+  "tokens_out": 10200
+ },
+ "A04": {
+  "criteria": {
+   "stage": {
+    "verdict": "match",
+    "citation": "form: stage=Seed"
+   },
+   "sector": {
+    "verdict": "no-match",
+    "citation": "form: D2C snack brand"
+   },
+   "geography": {
+    "verdict": "match",
+    "citation": "form: hq=Mumbai; deck: sells across India"
+   },
+   "founder_profile": {
+    "verdict": "no-match",
+    "citation": "form: both founders non-technical, no committed CTO"
+   },
+   "business_model": {
+    "verdict": "no-match",
+    "citation": "deck: online consumer sales, no recurring revenue"
+   },
+   "round_size": {
+    "verdict": "match",
+    "citation": "form: round_size_cr=4"
+   }
+  },
+  "tokens_in": 146000,
+  "tokens_out": 9300
+ },
+ "A05": {
+  "criteria": {
+   "stage": {
+    "verdict": "match",
+    "citation": "form: stage=Seed"
+   },
+   "sector": {
+    "verdict": "match",
+    "citation": "form: B2B lending software"
+   },
+   "geography": {
+    "verdict": "match",
+    "citation": "form: hq=Bengaluru"
+   },
+   "founder_profile": {
+    "verdict": "partial",
+    "citation": "form: CEO ex-banker; software sold to lenders"
+   },
+   "business_model": {
+    "verdict": "no-match",
+    "citation": "form: transaction fee per loan"
+   },
+   "round_size": {
+    "verdict": "match",
+    "citation": "form: round_size_cr=9"
+   }
+  },
+  "tokens_in": 150000,
+  "tokens_out": 9900
+ },
+ "A06": {
+  "criteria": {
+   "stage": {
+    "verdict": "match",
+    "citation": "form: stage=Seed; deck: 11 paying customers"
+   },
+   "sector": {
+    "verdict": "match",
+    "citation": "deck: AR automation for Indian firms of 50-500 employees"
+   },
+   "geography": {
+    "verdict": "match",
+    "citation": "deck: Bengaluru and Pune; all customers in India"
+   },
+   "founder_profile": {
+    "verdict": "match",
+    "citation": "deck: CEO ran receivables at a 300-person distributor for 9 years"
+   },
+   "business_model": {
+    "verdict": "match",
+    "citation": "deck: annual contracts"
+   },
+   "round_size": {
+    "verdict": "match",
+    "citation": "form: round_size_cr=6"
+   }
+  },
+  "tokens_in": 158000,
+  "tokens_out": 10400
+ }
+}
