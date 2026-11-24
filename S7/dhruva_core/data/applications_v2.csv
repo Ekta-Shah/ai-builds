@@ -1,0 +1,7 @@
+id,name,stage,sector,hq,founders,model,round_size_cr 
+A01,StoryPal,Series B,B2B learning software,San Francisco,2 founders (CEO ex-teacher; CTO),per-seat subscription,80
+A02,VaultNine,,,,,,
+A03,FactoryDesk,Pre-seed,B2B back-office software for manufacturers,Pune,2 founders (CEO ex-plant manager; CTO),monthly per-plant pilots,
+A04,QuickKart,Seed,D2C snack brand,Mumbai,2 founders (non-technical),online sales,4
+A05,PayBridge,Seed,B2B lending software (needs NBFC licence),Bengaluru,2 founders (CEO ex-banker; CTO),transaction fee per loan,9
+A06,LedgerLoop,Seed,B2B accounts-receivable automation for Indian firms of 50-500 staff,Bengaluru,2 founders (CEO ex-CFO; CTO),annual SaaS contract,6

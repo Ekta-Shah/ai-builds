@@ -1,0 +1,8 @@
+{
+  "min_score": null,
+  "max_holdout_drop": null,
+  "max_p95_seconds": null,
+  "max_cost_per_1000_inr": null,
+  "queries_per_day": 200,
+  "monthly_ceiling_inr": null
+}

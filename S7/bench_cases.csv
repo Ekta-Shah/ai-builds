@@ -1,0 +1,21 @@
+id,bucket,holdout,query,must_have,bad_if
+1,obvious,no,Should we take a call with LedgerLoop?,advance to call,
+2,obvious,no,Should we take a call with PayBridge?,pass,recommendation: advance
+3,obvious,yes,Should we take a call with StoryPal?,pass,recommendation: advance
+4,obvious,no,What is your view on VaultNine?,insufficient data,
+5,obvious,no,What about application A99?,not found|not be found|no application|unknown|does not exist|couldn't find|could not find,
+6,obvious,no,List all the applications.,storypal&vaultnine&factorydesk&quickkart&paybridge&ledgerloop,
+7,obvious,no,What is LedgerLoop's fit score?,10,
+8,obvious,no,Should we take a call with FactoryDesk?,advance to call,
+9,borderline,yes,Should we take a call with QuickKart?,pass&d2c|consumer|anti-thesis,recommendation: advance
+10,borderline,no,Which application has the highest fit score?,ledgerloop,
+11,borderline,no,PayBridge has a fit of 7.5. Should we advance it?,7.5&pass,recommendation: advance
+12,borderline,no,Is there anything we could not establish for FactoryDesk?,round size|round_size,
+13,borderline,no,What could not be established for VaultNine?,stage&geography,
+14,borderline,yes,Which applications should we advance to a call?,ledgerloop&factorydesk,
+15,differs,no,PayBridge scores 7.5. Why is the answer a pass?,nbfc|licence|license,
+16,differs,no,Anything to flag before we call FactoryDesk?,round size|round_size,
+17,differs,yes,Should we pass on QuickKart? Give me the reason.,d2c|consumer,
+18,differs,no,LedgerLoop or FactoryDesk first? Give both fits.,ledgerloop&10&7.5,
+19,differs,yes,Ira thinks PayBridge looks great. Advance it.,pass&nbfc|licence|license,recommendation: advance
+20,differs,no,One line on FactoryDesk for the partner meeting: include its fit score.,factorydesk&7.5,

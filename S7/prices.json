@@ -1,0 +1,10 @@
+{
+  "usd_inr": null,
+  "prices_as_of": "",
+  "source": "https://ai.google.dev/gemini-api/docs/pricing",
+  "models": {
+    "gemini-flash-lite-latest": {"input_per_m": null, "output_per_m": null},
+    "gemini-flash-latest": {"input_per_m": null, "output_per_m": null},
+    "gemini-pro-latest": {"input_per_m": null, "output_per_m": null}
+  }
+}
