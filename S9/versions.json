@@ -1,0 +1,4 @@
+{
+  "v1": {"model": "gemini-flash-lite-latest", "prompt": "prompts/v1.txt", "context_tokens": 650},
+  "v2": {"model": "gemini-flash-lite-latest", "prompt": "prompts/v2.txt", "context_tokens": 1500}
+}

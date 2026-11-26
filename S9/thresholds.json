@@ -1,0 +1,7 @@
+{
+  "adoption_min_pct": null,
+  "cost_per_q_max_inr": null,
+  "error_rate_max_pct": null,
+  "unhelpful_max_pct": null,
+  "owners": {"usage": null, "cost": null, "reliability": null, "quality": null}
+}
