@@ -1,0 +1,1 @@
+{"app": "store-assistant", "log_level": "INFO", "max_rpm": 10, "daily_cap_inr": 50, "user_cap_inr": 5, "queries_per_day": 400}

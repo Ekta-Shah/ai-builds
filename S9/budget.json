@@ -1,0 +1,9 @@
+{
+  "avg_tokens_in": 650,
+  "avg_tokens_out": 165,
+  "price_in_inr_per_million": 9,
+  "price_out_inr_per_million": 36,
+  "queries_per_day": 400,
+  "monthly_ceiling_inr": 3000,
+  "value_per_answer_inr": 2.0
+}

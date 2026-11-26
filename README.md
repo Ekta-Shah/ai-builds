@@ -10,5 +10,8 @@ Practice repos for MESA PGP Term 2, Advanced AI. Each folder is a small AI pipel
 | `S4/` | S4 | MCP lab: a fallback MCP server, a small client and a starter Obsidian vault |
 | `S5/` | S5 | ADK lab: build one agent, split it into three, and measure both |
 | `S6/` | S6 | Maker-checker lab: build a checker loop, add a code check, red-team it and measure it |
+| `S7/` | S7 | Benchmark lab: test three models on 20 cases, then pick one by a rule written first, with cost at 1x, 5x and 50x |
+| `BuildDay/` | Build day | 3-hour build: from a one-line problem to a working product, with a PRD, an architecture and a scored build |
+| `S9/` | S9 | Run it in production: cost at 5x and 50x, config and rollout, monitoring, security and an attack lab |
 
 Both run offline from cached fixtures (`OFFLINE=1`), so no API keys or cost are needed. See each folder's README for setup.
